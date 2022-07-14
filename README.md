@@ -9,7 +9,7 @@
 下载脚本：
 
 ```
-curl -fLO https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh && chmod a+rx debi.sh
+curl -fLO https://raw.githubusercontent.com/Jiaocha/debi/master/debi.sh && chmod a+rx debi.sh
 ```
 
 运行脚本：
