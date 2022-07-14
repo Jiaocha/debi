@@ -9,13 +9,17 @@
 下载脚本：
 
 ```
-curl -fLO https://raw.githubusercontent.com/Jiaocha/debi/master/debi.sh && chmod a+rx debi.sh
+curl -fLO https://raw.githubusercontent.com/Jiaocha/debi/master/debi9.sh && chmod a+rx debi9.sh
+curl -fLO https://raw.githubusercontent.com/Jiaocha/debi/master/debi10.sh && chmod a+rx debi10.sh
+curl -fLO https://raw.githubusercontent.com/Jiaocha/debi/master/debi11.sh && chmod a+rx debi11.sh
 ```
 
 运行脚本：
 
 ```
-sudo ./debi.sh --cdn --network-console --ethx --bbr --user root --password <新系统用户密码>
+sudo ./debi9.sh --cdn --network-console --ethx --bbr --user root --password <新系统用户密码>
+sudo ./debi10.sh --cdn --network-console --ethx --bbr --user root --password <新系统用户密码>
+sudo ./debi11.sh --cdn --network-console --ethx --bbr --user root --password <新系统用户密码>
 ```
 
 * `--bbr` 开启 BBR
